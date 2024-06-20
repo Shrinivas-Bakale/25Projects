@@ -1,0 +1,27 @@
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.accordion{
+    width: 500px;
+}
+
+.title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.items{
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+    padding: 0px 20px;
+}
+
+.content{
+    color: white;
+}
